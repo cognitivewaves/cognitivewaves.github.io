@@ -2,9 +2,11 @@
 
 [C++ Then and Now](https://cognitivewaves.wordpress.com/2020/01/20/cpp-then-and-now/)
 
-[Modern C++ Features – C++11, C++14, C++20](https://cognitivewaves.wordpress.com/modern-cpp-features/)
+[Modern C++ Features – C++11, C++14, C++17, C++20](https://cognitivewaves.wordpress.com/modern-cpp-features/)
 
 [Callbacks](https://cognitivewaves.wordpress.com/callbacks/)
+
+[Lambda and Closure](https://cognitivewaves.wordpress.com/lambda-and-closure/)
 
 [Application Software](https://cognitivewaves.wordpress.com/application-software/)
 
@@ -14,7 +16,15 @@
 
 [Spark – Getting Started](https://cognitivewaves.wordpress.com/spark-getting-started/)
 
-# GNU/Linux
+[Docker Container in Linux and Windows](https://cognitivewaves.wordpress.com/docker-container-linux-windows/)
+
+[Data types in Python, Numpy and Pandas](https://cognitivewaves.wordpress.com/data-types-python-numpy-pandas/)
+
+[Pandas DataFrame](https://cognitivewaves.wordpress.com/pandas-dataframe/)
+
+[Pandas DataFrame Operations](https://cognitivewaves.wordpress.com/pandas-dataframe-operations/)
+
+# Linux
 
 [Linux Distributions](https://cognitivewaves.wordpress.com/linux-distributions/)
 
@@ -28,7 +38,7 @@
 
 [grep explained](https://cognitivewaves.wordpress.com/grep/)
 
-# OpenGL and WebGL
+# Graphics
 
 [OpenGL Then and Now](https://cognitivewaves.wordpress.com/2015/04/24/opengl-then-and-now/)
 
